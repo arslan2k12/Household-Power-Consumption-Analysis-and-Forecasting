@@ -25,6 +25,7 @@ Regression with Gaussian kernel. We evaluate their performance
 using Normalized Root Mean Square Error (NRMSE) metric. 
 
 
-Dataset: We used Low Carbon London (LCL) project dataset available from UK
+# Dataset: 
+We used Low Carbon London (LCL) project dataset available from UK
 Data Service, London weather dataset from Dark Sky API, and UK
 bank holidays data from GOV.UK.
